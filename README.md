@@ -21,7 +21,7 @@ O dataset utilizado é composto por informações de clientes relacionadas a sol
 * **Risk** — Variável-alvo (good/bad)
 
 O dataset passou por tratamento para lidar com **valores nulos**, formatação inconsistente e codificação das variáveis categóricas.
-
+link: https://www.kaggle.com/datasets/kabure/german-credit-data-with-risk
 ---
 
 ## 🔧 **2. Pipeline de Pré-processamento**
