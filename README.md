@@ -5,6 +5,7 @@ Este projeto implementa um **pipeline completo de Ciência de Dados** para preve
 ---
 
 ## 📂 **1. Sobre o Dataset**
+link: https://www.kaggle.com/datasets/kabure/german-credit-data-with-risk
 
 O dataset utilizado é composto por informações de clientes relacionadas a solicitações de crédito. Ele contém variáveis numéricas e categóricas que representam características pessoais, financeiras e comportamentais.
 
@@ -21,7 +22,7 @@ O dataset utilizado é composto por informações de clientes relacionadas a sol
 * **Risk** — Variável-alvo (good/bad)
 
 O dataset passou por tratamento para lidar com **valores nulos**, formatação inconsistente e codificação das variáveis categóricas.
-link: https://www.kaggle.com/datasets/kabure/german-credit-data-with-risk
+
 ---
 
 ## 🔧 **2. Pipeline de Pré-processamento**
